@@ -1,6 +1,6 @@
 # Jogo da Memória
 
-Este projecto foi feito em aula de curso [B7Web](htpps://b7web.com.br).
+Este projecto foi feito em aula de curso [B7Web](https://b7web.com.br).
 
 React criado em CRA + Typescript + StyledComponents
 
